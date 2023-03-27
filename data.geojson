@@ -1,0 +1,67 @@
+{
+"type": "FeatureCollection",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"properties": {
+"id": "West",
+"value": 1234
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+        -111.64289763040057,
+          41.075366561557786   
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+        "id": "Midwest",
+        "value": 5678
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+            -92.32368766778615,
+            42.821939360251235
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "Northeast",
+"value": 1234
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+            -76.02124653422614,
+            41.87865811574085
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "South",
+"value": 1234
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+            -87.81394039494246,
+            34.64748731284989 
+]
+}
+}
+]
+}
