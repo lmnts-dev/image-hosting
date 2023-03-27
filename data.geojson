@@ -10,7 +10,7 @@
 {
 "type": "Feature",
 "properties": {
-"id": "West",
+"id": "WestData",
 "value": 1234
 },
 "geometry": {
@@ -24,7 +24,7 @@
 {
 "type": "Feature",
 "properties": {
-        "id": "Midwest",
+        "id": "MidwestData",
         "value": 5678
 },
 "geometry": {
@@ -38,7 +38,7 @@
 {
 "type": "Feature",
 "properties": {
-"id": "Northeast",
+"id": "NortheastData",
 "value": 1234
 },
 "geometry": {
@@ -52,7 +52,7 @@
 {
 "type": "Feature",
 "properties": {
-"id": "South",
+"id": "SouthData",
 "value": 1234
 },
 "geometry": {
