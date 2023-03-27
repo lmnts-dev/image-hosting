@@ -18,7 +18,7 @@
       },
       "properties": {
         "id": "West",
-        "value": 1234
+        "value": 3.4
       }
     },
     {
@@ -33,7 +33,7 @@
       },
       "properties": {
         "id": "Midwest",
-        "value": 5678
+        "value": 3.4
       }
     },
     {
@@ -48,7 +48,7 @@
       },
       "properties": {
         "id": "Northeast",
-        "value": 9012
+        "value": 2.9
       }
     },
     {
@@ -62,7 +62,7 @@
       },
       "properties": {
         "id": "South",
-        "value": 3456
+        "value": 4.6
       }
     }
   ]
