@@ -1,69 +1,68 @@
 {
-    "type": "FeatureCollection",
-    "crs": {
-        "type": "name",
-        "properties": {
-            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        }
-    },
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [ 
-   -11.157613534335724,
-3.6173137033174783,
-0    ]
-      },
-      "properties": {
-        "id": "West",
-        "value": 3.4
+   "type":"FeatureCollection",
+   "crs":{
+      "type":"name",
+      "properties":{
+         "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-            4.068660416018247,
-            3.9893801343722117
-        ]
-        
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -11.157613534335724,
+               3.6173137033174783,
+               0
+            ]
+         },
+         "properties":{
+            "id":"West",
+            "qtr":1234
+         }
       },
-      "properties": {
-        "id": "Midwest",
-        "value": 3.4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-            17.30619654486763,
-            6.341248101461886
-        ]
-        
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               4.068660416018247,
+               3.9893801343722117
+            ]
+         },
+         "properties":{
+            "id":"Midwest",
+            "qtr":5678
+         }
       },
-      "properties": {
-        "id": "Northeast",
-        "value": 2.9
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-            6.86532297832855,
-            -4.826697531013238
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               17.30619654486763,
+               6.341248101461886
+            ]
+         },
+         "properties":{
+            "id":"Northeast",
+            "qtr":9012
+         }
       },
-      "properties": {
-        "id": "South",
-        "value": 4.6
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               6.86532297832855,
+               -4.826697531013238
+            ]
+         },
+         "properties":{
+            "id":"South",
+            "qtr":3456
+         }
       }
-    }
-  ]
+   ]
 }
