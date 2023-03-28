@@ -58,7 +58,7 @@
          },
          "properties":{
             "id":"West",
-            "qtr":1234
+            "qtr":3.4
          }
       },
       {
@@ -104,7 +104,7 @@
          },
          "properties":{
             "id":"Midwest",
-            "qtr":5678
+            "qtr":3.4
          }
       },
       {
@@ -142,7 +142,7 @@
          },
          "properties":{
             "id":"Northeast",
-            "qtr":9012
+            "qtr":2.9
          }
       },
       {
@@ -188,7 +188,7 @@
          },
          "properties":{
             "id":"South",
-            "qtr":3456
+            "qtr":1.4
          }
       }
    ]
