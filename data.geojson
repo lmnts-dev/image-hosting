@@ -206,7 +206,7 @@
          },
          "properties":{
             "id":"Northeast",
-            "position": {"lng": 13.92, "lat":12.06},
+            "position": {"lng": 13.92, "lat":5.06},
             "qtr":4.4
          }
       },
