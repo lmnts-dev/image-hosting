@@ -121,7 +121,7 @@
          "properties":{
             "id":"West",
             "position": {"lng": -17.18, "lat":2.67},
-            "qtr": 2.5
+            "qtr": 12.5
          }
       },
       {
@@ -168,7 +168,7 @@
          "properties":{
             "id":"Midwest",
              "position": {"lng": 0.946, "lat": 4.35},
-            "qtr":2.1
+            "qtr":12.1
          }
       },
       {
@@ -207,7 +207,7 @@
          "properties":{
             "id":"Northeast",
             "position": {"lng": 13.92, "lat":5.06},
-            "qtr":4.4
+            "qtr":14.4
          }
       },
       {
@@ -286,7 +286,7 @@
          "properties":{
             "id":"South",
             "position": {"lng": 1.39, "lat":-3.83},
-            "qtr":1.29
+            "qtr":11.29
          }
       }
    ]
