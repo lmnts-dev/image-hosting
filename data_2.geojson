@@ -185,6 +185,13 @@
          }
       },
       {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [0.946, 4.35]
+         }
+      },
+      {
          "type":"Feature",
          "geometry":{
             "type":"Polygon",
@@ -224,6 +231,13 @@
                "lat":5.06
             },
             "qtr":14.4
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [13.92, 5.06]
          }
       },
       {
@@ -306,6 +320,13 @@
                "lat":-3.83
             },
             "qtr":11.29
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [1.39, -3.83]
          }
       }
    ]
